@@ -16,4 +16,4 @@
 # Configuration for the ContrastSecurity framework
 ---
 version: 6.+
-repository_root: https://download.run.pivotal.io/contrast-security
+repository_root: https://java-buildpack.cloudfoundry.org/contrast-security
